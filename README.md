@@ -1,2 +1,2 @@
 # hello-universe-2
-repo
+repository
